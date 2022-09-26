@@ -1,0 +1,41 @@
+body{
+    height: 100vh;
+    background-color:rgb(175, 126, 126);
+    font-family: 'Righteous', cursive;
+    text-align: justify;
+}
+
+h1{
+    color: seashell;
+    align-items: center;
+}
+
+h2{
+    color: seashell;
+    font-family: 'Righteous';
+    align-items: center;
+}
+
+header{
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+}
+
+main{
+    color: seashell;
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+}
+
+
+img{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
