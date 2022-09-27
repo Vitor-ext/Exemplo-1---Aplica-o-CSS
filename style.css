@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background-color:rgb(175, 126, 126);
+    background-color:rgb(0, 0, 0);
     font-family: 'Righteous', cursive;
     text-align: justify;
 }
@@ -16,15 +16,22 @@ h2{
     align-items: center;
 }
 
+h3{
+    color: red;
+    font-family: 'Algerian';
+    font-size: "150";
+    align-items: center;
+}
+
+
 header{
     text-align: center;
     margin-top: 20px;
-    align-items: center;
 }
 
 main{
     color: seashell;
-    text-align: justify;
+    text-align: center;
 }
 
 footer{
@@ -32,10 +39,26 @@ footer{
 }
 
 
-img{
+p{
+    text-align: center;
+    color: seashell;
+}
+
+nav{
+  
+    color: red;
+    flex-direction: row;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+section{
     text-align: center;
 }
 
-p{
-    text-align: center;
+span{
+    color: seashell;
 }
