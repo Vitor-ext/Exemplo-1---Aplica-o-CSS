@@ -7,7 +7,7 @@ body{
 
 h1{
     color: seashell;
-    align-items: center;
+    text-align: center;
 }
 
 h2{
@@ -50,6 +50,7 @@ nav{
   
     color: red;
     flex-direction: row;
+    text-align: center;
 }
 
 li{
@@ -66,7 +67,6 @@ span{
 
 ul{
     flex-direction: row;
-    padding-left: 50px;
 }
 
 a{
